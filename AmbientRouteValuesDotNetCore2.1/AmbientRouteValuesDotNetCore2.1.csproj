@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <RootNamespace>AmbientRouteValuesDotNetCore2_1</RootNamespace>
     <AssemblyName>AmbientRouteValuesDotNetCore2_1</AssemblyName>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>

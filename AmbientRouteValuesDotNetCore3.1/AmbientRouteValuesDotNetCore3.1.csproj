@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>AmbientRouteValuesDotNetCore3_1</RootNamespace>
     <AssemblyName>AmbientRouteValuesDotNetCore3_1</AssemblyName>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
 
 </Project>
