@@ -30,6 +30,13 @@ namespace AmbientRouteValuesDotNetCore3_1
 					pattern: "{culture}/test-a-with-fancy-route",
 					defaults: new { controller = "TestA", action = "Index" });
 
+				// Work around that makes the culture ambient route value be retained when generating a URL.
+				// Replace the above route with the commented out code to have this work in .NET 3.0+
+				//endpoints.MapControllerRoute(
+				//	name: "fancyRouteWithCulture",
+				//	pattern: "{culture}/test-a-with-fancy-route/{controller=TestA}/{action=Index}",
+				//	constraints: new { controller = "TestA", action = "Index" });
+
 				endpoints.MapControllerRoute(
 					name: "fancyRoute",
 					pattern: "test-a-with-fancy-route",
