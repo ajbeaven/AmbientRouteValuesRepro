@@ -1,4 +1,4 @@
-# AmbientRouteValuesRepro
+# AmbientRouteValuesRepro - Issue [#31602](https://github.com/dotnet/aspnetcore/issues/31602)
 
 This is a repro project to investigate oddities in how ambient route values handled across different .net versions.
 
