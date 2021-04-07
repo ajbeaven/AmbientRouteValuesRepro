@@ -1,0 +1,24 @@
+﻿<html>
+<head></head>
+<body>
+    <h1>.NET Core 3.1</h1>
+    <h2>@ViewBag.Title</h2>
+    
+    <a href="@Url.Action("Index", "Home", new { culture = ""})">Default culture</a>
+    <a href="@Url.Action("Index", "Home", new { culture = "ru"})">Russian culture</a>
+    
+    <h3>Instructions</h3>
+    <ol>
+        <li>Go to russian culture <code>/ru</code></li>
+        <li>Review destination URLs for each link below</li>
+    </ol>
+
+    <ul>
+        <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+        <li><a href="@Url.Action("Index", "TestA")">TestA</a></li>
+        <li><a href="@Url.Action("Index", "TestB")">TestB</a></li>
+    </ul>
+
+    @RenderBody()
+</body>
+</html>
