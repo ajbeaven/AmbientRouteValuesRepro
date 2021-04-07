@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace AmbientRouteValuesDotNet3_1
+namespace AmbientRouteValuesDotNetCore3_1
 {
 	public class Startup
 	{

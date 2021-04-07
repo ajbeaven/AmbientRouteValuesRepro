@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace AmbientRouteValuesDotNet2_1.Controllers
+namespace AmbientRouteValuesDotNetCore3_1.Controllers
 {
-    public class HomeController : Controller
+    public class TestBController : Controller
 	{
 		public IActionResult Index()
 		{

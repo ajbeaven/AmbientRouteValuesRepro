@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace AmbientRouteValuesDotNet2_1
+namespace AmbientRouteValuesDotNetCore2_1
 {
 	public class Program
 	{

@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>AmbientRouteValuesDotNet3_1</RootNamespace>
-    <AssemblyName>AmbientRouteValuesDotNet3_1</AssemblyName>
+    <RootNamespace>AmbientRouteValuesDotNetCore3_1</RootNamespace>
+    <AssemblyName>AmbientRouteValuesDotNetCore3_1</AssemblyName>
   </PropertyGroup>
 
 </Project>

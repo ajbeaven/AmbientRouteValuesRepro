@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>AmbientRouteValuesDotNet2_1</RootNamespace>
-    <AssemblyName>AmbientRouteValuesDotNet2_1</AssemblyName>
+    <RootNamespace>AmbientRouteValuesDotNetCore2_1</RootNamespace>
+    <AssemblyName>AmbientRouteValuesDotNetCore2_1</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

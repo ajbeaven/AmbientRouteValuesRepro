@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace AmbientRouteValuesDotNet3_1.Controllers
+namespace AmbientRouteValuesDotNetCore2_1.Controllers
 {
     public class HomeController : Controller
 	{

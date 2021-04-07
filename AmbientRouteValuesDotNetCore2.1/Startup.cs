@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace AmbientRouteValuesDotNet2_1
+namespace AmbientRouteValuesDotNetCore2_1
 {
 	public class Startup
 	{
